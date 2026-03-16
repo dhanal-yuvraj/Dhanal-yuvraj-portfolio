@@ -11,7 +11,7 @@
 
 **A modern, responsive developer portfolio built with React + Vite**
 
-[🌐 Live Demo](#) &nbsp;·&nbsp; [📄 Resume](public/Yuvraj_Resume.pdf) &nbsp;·&nbsp; [🐛 Report Bug](https://github.com/yuvraj/yuvraj-portfolio/issues)
+[🌐 Live Demo](https://dhanal-yuvraj.netlify.app/) &nbsp;·&nbsp; [📄 Resume](public/Yuvraj_Resume.pdf) &nbsp;·&nbsp; [🐛 Report Bug](https://github.com/yuvraj/yuvraj-portfolio/issues)
 
 </div>
 
